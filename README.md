@@ -1,3 +1,3 @@
-# goit-js-hw-02
+# goit-js-hw-03
 
-GoIT School / Java Script / Homework#2
+GoIT School / Java Script / Homework#3
